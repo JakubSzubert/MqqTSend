@@ -26,8 +26,6 @@ namespace Frends.MQTT.SendTask.Tests
         [Test]
         public async Task SendMessageAsync_ShouldSendSuccessfully()
         {
-            Console.WriteLine("Test: SendMessageAsync_ShouldSendSuccessfully START");
-
             var input = new Input
             {
                 BrokerAddress = "test.mosquitto.org",
