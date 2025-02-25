@@ -6,17 +6,6 @@ using Frends.MQTT.Send.Definitions;
 
 namespace Frends.MQTT.Send
 {
-    public class Result
-    {
-        public bool Success { get; }
-        public string Details { get; }
-
-        public Result(bool success, string details)
-        {
-            Success = success;
-            Details = details;
-        }
-    }
 
     public static class MqttTask
     {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Frends.MQTT.Send.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27454aa1c68842238b487c89c300e1cb83526b87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb9e10113f7b07dc266d6a17b6fbf6d5b7bf99d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Frends.MQTT.Send.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Frends.MQTT.Send.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
